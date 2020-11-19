@@ -3,7 +3,7 @@
 Hi! I'm Carol (she/her).
 
 - 🔭 I’m currently working on @python, @nteract, @jupyterhub, @jupyter, @pyladies, @black
-- 🌱 I’m currently learning Julia.
+- 🌱 I’m learning Julia.
 - 💬 Ask me about using notebooks for communicating and collaborating with others.
 - I speak about Python, Jupyter notebooks, scaling reproducible research, learning, 
   open source governance, and more...
