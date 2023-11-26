@@ -15,3 +15,5 @@ When I'm not coding or mentoring/teaching, I enjoy exploring the tide pools and 
 > I was interested in doing it, there was an opportunity, so I just did it. - [Barbara Liskov](http://www.pmg.csail.mit.edu/~liskov/)
 
 [![willingc's GitHub stats](https://github-readme-stats.vercel.app/api?username=willingc)](https://github.com/willingc/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willingc)](https://github.com/willingc/github-readme-stats)
