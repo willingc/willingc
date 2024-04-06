@@ -1,14 +1,18 @@
-<img align="left" src="swirl-mascot-1000.png">
-
 ## Hi there 😊
 
-I'm [Carol Willing](https://willingconsulting.com) (she/her), and I'm a Python Core Developer, a three-time Python Steering Council member, PSF Fellow, and a Project Jupyter core contributor.
-
-<blockquote align="center">
+<div>
+  <img align="right" width=200 src="swirl-mascot-1000.png">
+  <p>
+    I'm <a href="https://willingconsulting.com">Carol Willing</a> (she/her), and I'm a Python Core Developer, a three-time Python Steering Council member, PSF Fellow, and a Project Jupyter core contributor.
+  </p>
+  <blockquote>
   I was interested in doing it, there was an opportunity, so I just did it.
   
   <a href="http://wwww.pmg.csail.mit.edu/~liskov/">&mdash; Barbara Liskov</a>
-</blockquote>
+  </blockquote>
+</div>
+
+
 
 I'm also a leader in open science and open-source governance. I'm driven to make open science accessible through open tools and learning materials.
 
