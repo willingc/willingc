@@ -16,6 +16,5 @@ When I'm not coding or mentoring/teaching, I enjoy exploring the tide pools and 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=willingc&show_icons=true&" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=willingc&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=willingc&show_icons=true&" width = 400>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willingc)](https://github.com/willingc/github-readme-stats)
