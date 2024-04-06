@@ -1,4 +1,4 @@
-<img align="left" src="https://photos.app.goo.gl/B2SHyrQwKkfbWRy18">
+<img align="left" src="swirl-mascot-1000.png">
 
 ## Hi there 😊
 
