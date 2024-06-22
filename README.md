@@ -8,7 +8,7 @@
   <blockquote>
   I was interested in doing it, there was an opportunity, so I just did it.
   
-  <a href="http://wwww.pmg.csail.mit.edu/~liskov/">&mdash; Barbara Liskov</a>
+  <a href="http://www.pmg.csail.mit.edu/~liskov/">&mdash; Barbara Liskov</a>
   </blockquote>
 </div>
 
