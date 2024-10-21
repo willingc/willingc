@@ -38,3 +38,29 @@ I'm grateful for [PyLadies](https://pyladies.com) and the impact it has had on m
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=willingc&hide_border=true" width = 400>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=willingc&show_icons=true&" width = 400>
 </p>
+
+<a href="https://github.com/willingc">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/willingc">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/willingc">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+
+<a href="https://github.com/willingc">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+
+<a href="https://github.com/willingc">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+
+<a href="https://github.com/willingc">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/willingc">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
