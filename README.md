@@ -33,12 +33,6 @@ I'm grateful for [PyLadies](https://pyladies.com) and the impact it has had on m
 
 <br>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=willingc&show_icons=true&" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=willingc&hide_border=true" width = 400>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=willingc&show_icons=true&" width = 400>
-</p>
-
 <a href="https://github.com/willingc">
   <img align="center" width="49%" src="./header.svg" />
 </a>
