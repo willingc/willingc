@@ -58,3 +58,5 @@ I'm grateful for [PyLadies](https://pyladies.com) and the impact it has had on m
 <a href="https://github.com/willingc">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
+
+[![willingc's GitHub stats](https://github-readme-stats.vercel.app/api?username=willingc)](https://github.com/willingc/github-readme-stats)
