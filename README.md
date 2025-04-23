@@ -45,11 +45,6 @@ I'm grateful for [PyLadies](https://pyladies.com) and the impact it has had on m
 </br>
 <br>
 <a href="https://github.com/willingc">
-    <img align="center" width="49%" src="./achievements.svg" />
-</a>
-</br>
-<br>
-<a href="https://github.com/willingc">
   <img align="center" width="49%" src="./iso_calender.svg" />
 </a>
 </br>
