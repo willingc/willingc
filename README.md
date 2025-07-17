@@ -25,7 +25,7 @@ Check out my [speakerdeck](https://speakerdeck.com/willingc) and [youtube](https
 I'm grateful for [PyLadies](https://pyladies.com) and the impact it has had on my life.
 
 🌊 When I'm not coding, mentoring, or teaching, I enjoy exploring the tide pools and finding
-:octopus: :shell: creatures 🦦.
+🐙 🐚 creatures 🦦.
 
 ### 🍎 Learn 🏗️ Build 🎁 Share
 
