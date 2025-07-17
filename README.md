@@ -38,12 +38,14 @@ I'm grateful for [PyLadies](https://pyladies.com) and the impact it has had on m
 <a href="https://github.com/willingc">
   <img align="center" width="49%" src="./header.svg" />
 </a>
-
+</br>
+<be>
 <a href="https://github.com/willingc">
   <img align="center" width="49%" src="./acti_comm.svg" />
 </a>
 </br>
 <br>
+
 <a href="https://github.com/willingc">
   <img align="center" width="49%" src="./iso_calender.svg" />
 </a>
