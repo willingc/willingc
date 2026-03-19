@@ -29,6 +29,8 @@ I'm grateful for [PyLadies](https://pyladies.com) and the impact it has had on m
 
 ### 🍎 Learn 🏗️ Build 🎁 Share
 
+---
+
 [![pgp](https://img.shields.io/badge/pgp-0x5FA188A82AE4C900-313131)](https://github.com/willingc.gpg)
 
 
