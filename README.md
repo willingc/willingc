@@ -32,23 +32,3 @@ I'm grateful for [PyLadies](https://pyladies.com) and the impact it has had on m
 ---
 
 [![pgp](https://img.shields.io/badge/pgp-0x5FA188A82AE4C900-313131)](https://github.com/willingc.gpg)
-
-
-[![willingc's GitHub stats](https://github-readme-stats.vercel.app/api?username=willingc)](https://github.com/willingc/github-readme-stats)
-
-<br>
-<a href="https://github.com/willingc">
-  <img align="center" width="49%" src="./header.svg" />
-</a>
-</br>
-<be>
-<a href="https://github.com/willingc">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a>
-</br>
-<br>
-
-<a href="https://github.com/willingc">
-  <img align="center" width="49%" src="./iso_calender.svg" />
-</a>
-</br>
